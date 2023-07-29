@@ -131,4 +131,4 @@ function createStaticIcons(bodyInfo){
     }
     bodyInfo.appendChild(icons);    
 }
-displayData();
+displayData(); 
